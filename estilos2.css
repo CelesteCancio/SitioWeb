@@ -376,6 +376,13 @@ input[type=submit], [type="reset"]{
     .imagenIntroduccion3 img{
         width: 200px;
     } 
+        .imagenIntroduccion2 img{
+        border: 12px solid #006064;
+    }
+    
+    .imagenIntroduccion4 img{
+        border: 12px solid #000099;
+    }
 
 }
 
@@ -384,7 +391,7 @@ input[type=submit], [type="reset"]{
 
 @media screen and (max-width:360px) {
     header{
-        height: 10vh;
+        height: 15vh;
     }
     .presentacion{
         flex-direction: column;
@@ -447,5 +454,12 @@ input[type=submit], [type="reset"]{
     .imagenIntroduccion3 img{
         width: 150px;
     } 
+        .imagenIntroduccion2 img{
+        border: 8px solid #006064;
+    }
+    
+    .imagenIntroduccion4 img{
+        border: 8px solid #000099;
+    }
 
 }

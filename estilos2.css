@@ -461,5 +461,9 @@ input[type=submit], [type="reset"]{
     .imagenIntroduccion4 img{
         border: 8px solid #000099;
     }
+    
+    footer p{
+        font-size: smaller;
+    }
 
 }

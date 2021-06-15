@@ -397,7 +397,7 @@ input[type=submit], [type="reset"]{
         flex-direction: column;
     }
     .introduccion{
-        margin-top: 5vh;
+        margin-top: 8vh;
         text-align: center;    
     }
     .imagenIntroduccion img{

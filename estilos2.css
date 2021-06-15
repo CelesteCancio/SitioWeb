@@ -344,7 +344,7 @@ input[type=submit], [type="reset"]{
     }
 
     .textoIntroduccion h1{
-        font-size: 40px;
+        font-size: 35px;
         margin-bottom:3vh;
         margin-top:15vh;
     }
@@ -422,7 +422,7 @@ input[type=submit], [type="reset"]{
     }
 
     .textoIntroduccion h1{
-        font-size: 30px;
+        font-size: 20px;
         margin-bottom:2vh;
         margin-top:10vh;
     }
